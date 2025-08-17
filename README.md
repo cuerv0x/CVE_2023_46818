@@ -1,1 +1,1 @@
-cargo run --release -- <URL> <Usuario> <Contraseña>
+cargo run --release -- URL Usuario Contraseña
